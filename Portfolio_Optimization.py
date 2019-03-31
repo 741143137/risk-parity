@@ -3,7 +3,6 @@
 """
 Created on Fri Dec 14 18:57:34 2018
 
-@author: YaoyunZhang
 """
 
 class Optimize:
